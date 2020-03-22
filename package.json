@@ -1,0 +1,22 @@
+{
+  "name": "canvas",
+  "version": "12.15.0",
+  "description": "Learning Canvas all practices and codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajikcoder/Canvas.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "Abdusamadzoda Abdulaziz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tajikcoder/Canvas/issues"
+  },
+  "homepage": "https://github.com/tajikcoder/Canvas#readme"
+}
